@@ -1,7 +1,7 @@
 #!/bin/bash
 
-pathdaily="/volume2/Daily_backup/"
-path="/volume2/log/daily-log/"
+pathdaily="/path/daily-backup"
+path="/path/log/daily-log/"
 timestamp=$(date +%Y%m%d_%H%M%S)
 filename=log_$timestamp.txt
 log=$path$filename
