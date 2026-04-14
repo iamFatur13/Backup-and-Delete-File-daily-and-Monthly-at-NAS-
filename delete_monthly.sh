@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PARENT_DIR="/volume3/Monthly_backup/"
+PARENT_DIR="/path/sumber/data/yang/akan/dihapus"
 
 MONTHS_TO_KEEP=3             # Jumlah bulan penyimpanan
 
