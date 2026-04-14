@@ -56,7 +56,5 @@
 *.ISO
 *.mrimg
 *.tar.gz
-MBA.UMUM
-Download
-@*
+
 
